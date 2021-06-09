@@ -1,19 +1,17 @@
-### Peace be upon you. ✨ _Welcome to my GitHub!_
+
 
 
 <img src="https://raw.githubusercontent.com/scriptype/scriptype/master/scriptype.gif" height=300 width=400/><br/>
-Hey, This is <b>Rizvan Hawaldar</b>, and welcome to my Github profile. I've profound knowledge in <i>Mobile application development</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about Learning New Technology and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns. Open to work on any technology/programming languages with a steep learning curve.
-<br/>
 
-:octocat: [Blog](https://medium.com/@rizvan)
-&nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rizvanhawaldar/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/llRizvanll)
-&nbsp;
-[![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/rizvanhawaldar)
-&nbsp;
-<a href="https://stackoverflow.com/story/rizvan"><img src="https://cdn.sstatic.net/Img/logo-so.png?v=f1f0fe99894d" height=20 width=90 alt="Stackoverflow"></a> &nbsp;
+# Hi there👋! I'm [Rizvan](https://rizvan.work) 🙋‍♂️
+
+![Profile views](https://gpvc.arturio.dev/llRizvanll)
+
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
+
+### 🎍 Welcome to my hub 👨‍💻
+
+<br/>
 
 
 <br/>
@@ -38,13 +36,6 @@ Here are some ideas to get you started:
       <b>⚗️ Experimenting on: </b> Improving the efficiency of code , analysis.
    </li>
     <br/>
-   <li>
-     <b>💬 Ask me about: </b> Anything tech related.
-   </li>
-   <br/>
-   <li>
-     <b>📫 How to reach me: </b> shoot a mail at rizvan.g.h@gmail.com
-   </li>
    
    
 </ul>
@@ -66,7 +57,18 @@ Here are some ideas to get you started:
 
 <a href="https://www.buymeacoffee.com/rizvanhawaldar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
 <br/><br/>
+       
+       
+       ## 🔗 Know more about me 
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rizvan.work/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:hi@rizvan.g.h@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/rizvanhawaldar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rizvanhawaldar/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@rizvan)
+
     
+       
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
     <br/>
 <img align='right' src="https://komarev.com/ghpvc/?username=llRizvanll" alt="Rizvan" />
