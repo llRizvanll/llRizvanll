@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=llRizvanll&show_icons=true&include_all_commits=true">
     <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llRizvanll&layout=compact" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llRizvanll&layout=compact" /> -->
     <br/>
     <br/>
     Please do visit projects on my github : <br/><br/>
