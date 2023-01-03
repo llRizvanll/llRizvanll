@@ -7,7 +7,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/llRizvanll)
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽. React Native Scalable apps development.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 <ul>
 <li>
-     <b>🔭 Currently working on:</b>  <b><i>Android/iOS</i></b> (Java, Kotlin, React-Native, Cordova).
+     <b>🔭 Currently working with:</b>  <b><i>Android/iOS</i></b> (Java, Kotlin, React-Native, Typescript).
    </li>
   <br/>
   <li>
