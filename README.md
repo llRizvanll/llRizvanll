@@ -40,8 +40,6 @@ Here are some ideas to get you started:
    
 </ul>
     <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=llRizvanll&show_icons=true&include_all_commits=true">
     <br/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llRizvanll&layout=compact" /> -->
     <br/>
@@ -51,6 +49,7 @@ Here are some ideas to get you started:
     2. InshortApp<br/>
     3. NewsApps<br/>
     4. DeepLearning<br/>
+    5. ChartFactory<br/>
     .... continued.....<br/>
     <br/>
     PLEASE HELP ME TO CONTRIBUTE MORE PROJECTS OVER HERE!
