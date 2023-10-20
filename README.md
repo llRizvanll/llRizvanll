@@ -5,7 +5,7 @@
 
 # Hi there👋! I'm [Rizvan](https://rizvan.work) 🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/llRizvanll)
+<img align='right' src="https://komarev.com/ghpvc/?username=llRizvanll" alt="Rizvan" />
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽. React Native Scalable apps development.
 
