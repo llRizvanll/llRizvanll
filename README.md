@@ -7,7 +7,9 @@
 
 <img align='right' src="https://komarev.com/ghpvc/?username=llRizvanll" alt="Rizvan" />
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽. React Native Scalable apps development.
+_**LATEST UPDATE:**_ _
+
+I am exploring opportunities in Android, React Native, Kotlin and Java. I will be remotely available. Please get in touch with me on my mail id, listed below.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
